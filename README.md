@@ -4,3 +4,5 @@ If enemy hits the bottom ground, game is over.
 Lib used : math - for calculating speed, movement and dimensions of game 
           random - to generate enemy in any random positions 
           
+NOTE : IT is still in working, not yet completed yet, still leanring few things to fix 
+          
